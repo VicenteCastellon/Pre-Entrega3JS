@@ -1,0 +1,60 @@
+* {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        background-color: white; 
+    }
+
+
+    .imagenLogo{
+        margin-top: 100px;
+    }
+
+    .navBar{
+            font-size: 20px;
+            text-align: center;
+            margin-top: 20px; 
+    }
+        
+    .navBar li a:hover {
+        color: #51A09A; }
+
+
+        #noticias {
+            padding-top: 100px; 
+            margin-top: -100px; 
+        }
+
+.imagen-circular {
+    border-radius: 10%;
+    object-fit: cover; 
+}
+
+
+.navbar {
+    background-color: white; 
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); 
+}
+
+
+main {
+    margin-top: 100px; 
+}
+
+.Team{
+    margin-top: 60px;
+}
+
+.cuadrado{
+    margin-top: 60px;
+        width: 1901px;
+        height: 500px;
+        background-color: #51A09A; 
+}
+
+
+
+
+
+
+
